@@ -1,0 +1,30 @@
+﻿Build started 27-11-2020 13:49:04.
+     1>Project "C:\Users\sk\Desktop\speech\assignments\asgn3\204101057_vowelRecognition\204101057_vowelRecognition\204101057_vowelRecognition.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\204101057_vowelRecognition.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\204101057_vowelRecognition.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\204101057_vowelRecognition.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 204101057_vowelRecognition.cpp
+         204101057_vowelRecognition.cpp
+     1>c:\users\sk\desktop\speech\assignments\asgn3\204101057_vowelrecognition\204101057_vowelrecognition\204101057_vowelrecognition.cpp(59): warning C4715: 'dcShift' : not all control paths return a value
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\204101057_vowelRecognition.exe.embed.manifest.res" Debug\204101057_vowelRecognition_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\sk\Desktop\speech\assignments\asgn3\204101057_vowelRecognition\Debug\204101057_vowelRecognition.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\204101057_vowelRecognition.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\sk\Desktop\speech\assignments\asgn3\204101057_vowelRecognition\Debug\204101057_vowelRecognition.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\sk\Desktop\speech\assignments\asgn3\204101057_vowelRecognition\Debug\204101057_vowelRecognition.lib" /MACHINE:X86 Debug\204101057_vowelRecognition.exe.embed.manifest.res
+         Debug\204101057_vowelRecognition.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\204101057_vowelRecognition.exe.embed.manifest" /manifest Debug\204101057_vowelRecognition.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         204101057_vowelRecognition.vcxproj -> C:\Users\sk\Desktop\speech\assignments\asgn3\204101057_vowelRecognition\Debug\204101057_vowelRecognition.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\204101057_vowelRecognition.unsuccessfulbuild".
+         Touching "Debug\204101057_vowelRecognition.lastbuildstate".
+     1>Done Building Project "C:\Users\sk\Desktop\speech\assignments\asgn3\204101057_vowelRecognition\204101057_vowelRecognition\204101057_vowelRecognition.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.81
